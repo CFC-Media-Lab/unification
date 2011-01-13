@@ -4,6 +4,7 @@ January 11, 2011
 - Added space background
 - point cloud background removal
 - frame differencing transparency
+- fixed memory leak
 
 January 12, 2011
 - Added ball
