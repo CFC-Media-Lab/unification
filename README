@@ -1,0 +1,15 @@
+Project Unification
+
+January 11, 2011 
+- Added space background
+- point cloud background removal
+- frame differencing transparency
+- fixed memory leak
+
+January 12, 2011
+- Added ball
+
+January 13, 2011 
+- Added Particle system
+-- Attraction point added with mouse coordinates and 'a'
+-- repulsion with ball
